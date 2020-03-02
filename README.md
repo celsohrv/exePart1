@@ -1,0 +1,1 @@
+# atividade_design_patterns
